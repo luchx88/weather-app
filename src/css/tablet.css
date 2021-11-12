@@ -1,0 +1,4 @@
+.secondary-section__forecast-container {
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 130px));
+}
